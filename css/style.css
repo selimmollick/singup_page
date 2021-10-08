@@ -1,0 +1,95 @@
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+body{
+	background-image: url(310929.jpg);
+	background-color: transparent;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+
+}
+.main_div{
+	border: 1px solid black;
+	margin: auto;
+	width: 30%;
+	height: 450px;
+	padding: 5px;
+	position: relative;
+	padding-top: 20px;
+	/*background-image: url(joel-vodell-TApAkERW5pQ-unsplash.jpg);*/
+	background-position: center;
+	background-size: cover;
+	margin: auto;
+	/*background-color: #1bb0f34d;*/
+	background-color: black;
+}
+.main_div1{
+	border: 1px solid black;
+	width:98%;
+	height: 38px;
+	margin-top: 8px;
+	padding: 2px;
+
+}
+.sub_div{
+	border: 1px solid black;
+	width:21%;
+	height:30px;
+	float: left;
+	padding: 2px;
+}
+.p{
+	margin: auto;
+	color: white;
+	font-weight: bold;
+    font-size: 15px;
+}
+.sub_div1{
+	border: 1px solid black;
+	width:65%;
+	height: 30px;
+	float: right;
+	color: #f68c31;
+
+}
+.select_box{
+	width: 100%;
+	height:30px;
+}
+.text{
+	width: 97%;
+	background-color: transparent;
+	border: 2px solid white;
+	border-radius: 5px;
+	height: 24px;
+	color: white;
+}
+.select_box{
+	background-color: transparent;
+	border: 2px solid white;
+	border-radius: 5px;
+}
+.submit{
+	width: 135px;
+	height: 35px;
+	margin-top: 35px;
+	border-radius: 10px;
+	background: #4db8d8;
+    border-block-color: white;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+/*.th
+{
+	color: red;
+}
+.element.style {
+    color: red;
+}*/
